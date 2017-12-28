@@ -82,6 +82,7 @@
     <Compile Include="Estado.cs" />
     <Compile Include="EstadoCivil.cs" />
     <Compile Include="EstadoEstudio.cs" />
+    <Compile Include="Estatus.cs" />
     <Compile Include="ExperienciaProfesional.cs" />
     <Compile Include="Formacion.cs" />
     <Compile Include="FormaContacto.cs" />
@@ -96,6 +97,7 @@
     <Compile Include="Municipio.cs" />
     <Compile Include="Nivel.cs" />
     <Compile Include="ObservacionesPerfil.cs" />
+    <Compile Include="OfcReclutamiento.cs" />
     <Compile Include="Pais.cs" />
     <Compile Include="PerfilCandidato.cs" />
     <Compile Include="PerfilExperiencia.cs" />
@@ -106,12 +108,14 @@
     <Compile Include="Porcentage.cs" />
     <Compile Include="PrestacionesClientePerfil.cs" />
     <Compile Include="PrestacionLey.cs" />
+    <Compile Include="Prioridad.cs" />
     <Compile Include="ProcesoPerfil.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PsicometriasCliente.cs" />
     <Compile Include="PsicometriasDamsa.cs" />
     <Compile Include="RedSocial.cs" />
     <Compile Include="Referenciado.cs" />
+    <Compile Include="Requisicion.cs" />
     <Compile Include="RutasPerfil.cs" />
     <Compile Include="TamanoEmpresa.cs" />
     <Compile Include="Telefono.cs" />
@@ -128,6 +132,7 @@
     <Compile Include="TipoReclutamiento.cs" />
     <Compile Include="TipoRedSocial.cs" />
     <Compile Include="TipoTelefono.cs" />
+    <Compile Include="Usuarios.cs" />
     <Compile Include="Year.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

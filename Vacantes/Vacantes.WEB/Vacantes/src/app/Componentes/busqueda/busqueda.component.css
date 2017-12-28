@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+#Logo{
+  float: left;
+  padding-left: 3%;
+}
+H5{
+  padding-left: 20%;
+}
+.Cabeceras-style{
+  text-shadow: #706d6d 1px 1px 1px;
+  border-radius: 1px;
+  background: #E5E7E9;
+  text-decoration-color: black;
+}
+.app{
+  border-radius: 5px;
+  padding: 30px;
+}
+
+.sombras{
+  box-shadow: 4px 4px 0 #BFC9CA;
+   -webkit-box-shadow: 4px 4px 0 #BFC9CA;
+   -moz-box-shadow: 4px 4px 0 #BFC9CA;
+}
