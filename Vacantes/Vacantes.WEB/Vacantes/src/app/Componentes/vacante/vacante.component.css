@@ -1,0 +1,172 @@
+a
+{
+	color: #DD4F24;
+}
+body
+{
+	font-family: ' Bree Serif ', serif ;
+	font-style: 16px;
+	margin: 0;
+}
+#logo
+{
+	float: left;
+}
+.card-body
+{
+	background-color:#E6E6E6;
+	-webkit-box-shadow: 7px 7px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 7px 7px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 7px 7px 5px 0px rgba(0,0,0,0.75);
+}
+.card-text
+{
+	font-weight: bold;
+	color: #464646
+}
+.card-title
+{
+	width: 100%;
+	border-bottom:2px;
+	font-size: 21px;
+	color: #24549a;
+}
+.card-text
+{
+	color: #585858;
+}
+
+.lU
+{
+	background: #ffc107;
+    position: absolute;
+    padding: 2px 30px 0 3px;
+	z-index: 1;
+	float: left;
+    height: 25px;
+    top: 0;
+	left: 2;
+	right: 0px;
+	color: #fff;
+    margin-left:80%;
+
+}
+
+.paginador
+{
+
+    padding-left: 80px;
+
+}
+
+
+#facha
+{
+	font-weight: bold;
+	background-color:#8EACC9;
+	float: left;
+	color: white;
+	height: 33px;
+	width:25%;
+}
+#textofecha
+{
+	padding-left: 3%;
+}
+#localidad
+{
+	font-weight: bold;
+	background-color:#BDCAD9;
+	float: left;
+	color: white;
+	height: 33px;
+	width:29%;
+	margin-left: 2%;
+}
+#textolocalidad
+{
+	padding-left: 3%;
+}
+#especialidad
+{
+	font-weight: bold;
+	background-color:#BDCAD9;
+
+	float: left;
+	color: white;
+	height: 33px;
+	width:55%;
+	margin-left: 2%;
+}
+#textoespecialidad
+{
+	padding-left: 3%;
+}
+#especialidad
+{
+	font-weight: bold;
+	background-color:#BDCAD9;
+	float: left;
+	color: white;
+	width:20%;
+	margin-left: 2%;
+}
+#textoespecialidad
+{
+	padding-left: 3%;
+}
+
+#ver
+{
+	font-weight: bold;
+	float: left;
+	color: white;
+	width:20%;
+	height: 2%;
+	margin-left: 2%;
+}
+#ver
+{
+	padding-left: 2%;
+
+}
+
+.modal-content
+{
+	background-color:#E6E6E6;
+}
+/* #textos
+{
+	line-height: 2px;
+} */
+
+
+
+h5
+{
+
+	color: #585858;
+}
+
+
+#textodetalle
+{
+	padding-left: 20px;
+   color: black;
+   font-weight: bold;
+}
+
+.fa fa-map-marker
+{
+	padding-left: 2%;
+}
+
+#caja
+{
+
+	background-color:#E6E6E6;
+}
+#fecha
+{
+	background-color:#8EACC9;
+}

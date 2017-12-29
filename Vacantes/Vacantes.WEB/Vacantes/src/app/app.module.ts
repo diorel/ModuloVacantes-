@@ -5,11 +5,13 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { BusquedaComponent } from './componentes/busqueda/busqueda.component';
+import { VacanteComponent } from './Componentes/vacante/vacante.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    BusquedaComponent
+    BusquedaComponent,
+    VacanteComponent
   ],
   imports: [
       BrowserModule,
